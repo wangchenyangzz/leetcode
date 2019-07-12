@@ -1,2 +1,11 @@
+# Custom make
+build/
+
+# iOS Pods
+Pods/
+argo.xcworkspace/
+project.xcworkspace/
+xcuserdata/
+
 #vscode
 .vscode
